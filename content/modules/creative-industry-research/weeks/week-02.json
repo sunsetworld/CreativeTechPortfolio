@@ -1,13 +1,13 @@
 {
-  "week": 2,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "",
+  "references": "",
   "conclusion_future_work": "",
+  "date": "2026-10-04T11:53:00.000+01:00",
+  "results_discussion": "",
+  "week": 2,
+  "title": "Analysis of Criptech",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "For this weeks lesson, the class discussed the Access Riders that were submitted for this class, and then the class read along with the paper Criptech and the Art of Access: Introduction to Special Issue. After this lesson, I sat down to read the paper in more detail, make notes and ask questions about the terms that it uses.",
+  "video": ""
 }

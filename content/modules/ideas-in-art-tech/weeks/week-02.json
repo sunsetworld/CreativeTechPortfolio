@@ -1,13 +1,13 @@
 {
-  "week": 2,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "",
+  "references": "www.youtube.com. (n.d.). Why a cat always lands on its feet. [online] Available at: https://www.youtube.com/watch?v=Xs87FijgVaA [Accessed 4 Oct. 2026].",
   "conclusion_future_work": "",
+  "date": "2026-10-04T17:28:00.000+01:00",
+  "results_discussion": "How does one think Analogue in a Digital world? What used to take time now instead takes space, and what was continuous is now discrete or contiguous. In a world that increasingly is moving away from the time requirements of the old, the analogue, and into this new, digital reality where the only cost is space, what do we lose through this conversion? \nThe use of Chronophotography is a good example of this, the works of Eadweard Muybridge and Etienne-Jules Marey, feature multiple images that are fused together or are played one-by-one to create a picture with a sense of motion, movement and energy. The initial version of Chronophotography used by Marey used a technique that involved using a photosensitive material that was exposed to the light, and then covering it with darkness during each exposure, writing each frame onto a single disc, and Marey later updated this camera to run on a roll of film, moving the film per exposure, and Marey used this to demonstrate how cats rotate their bodies when they are falling to the ground in 1894 (www.youtube.com. n.d).\nThe idea of taking multiple pictures to create something that has a sense of motion, that moves, may seem trivial today, for example, how can an individual recreate Marey’s technique using modern digital technology? In a time of Generative Artificial Intelligence (GenAI), this seems trivial. Take a bunch of pictures on your phone and then ask a chatbot to smash them all into 1 image, or just take a video, using your phone. Before GenAI, this was something you could pull off at home using photo-manipulation tools like Photoshop. \nBut let’s go back to the first question, in an age where you can get a chatbot to generate a lot of material for you, images, videos, text, why think Analogue? Because it allows us to understand what came before, how these technologies we take for granted today came to be,  and, crucially, in a time of GenAI slop, it allows us to retain the human side of creation. That these technologies that shape technologies today didn’t exist without human experimentation, of trial and error, of trying and making things.\nSo, how does someone think analogue in a digital world? Take a look at what technologies came before and appreciate them for the advancements that led to what we have today. Take a step back and appreciate the analogue way of doing things, the human need of creation and experimentation, and that is how you think in an analogue way.",
+  "week": 2,
+  "title": "Vocoders, analogue and other predigital technologies",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week's lesson was about the technology before digital technologies, the \"Digital Prehistory of Digital Technologies\", explored through a range of devices like the Vocoder and Chromatography. In my piece (4), I explore the latter and discuss the unique properties of analogue that digital just cannot replicate. ",
+  "video": ""
 }
