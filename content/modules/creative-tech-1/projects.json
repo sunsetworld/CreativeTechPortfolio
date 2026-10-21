@@ -1,3 +1,9 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "title": "Project 0",
+      "link": "https://sunsetworld.github.io/project-0/",
+      "description": "Project 0 focusing on the impact of an electronic portable games console."
+    }
+  ]
 }
