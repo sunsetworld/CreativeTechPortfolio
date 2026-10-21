@@ -1,13 +1,18 @@
 {
-  "method": "[Add work from Thursday here]",
-  "related_work": "[Add word from Tuesday here]",
+  "method": "Thursday's lesson explored the language of the Internet, HTML, CSS and Javascript, starting with HTML. Alice explored what made HTML work, that HTML features tags, like <p>, <h1> and <html>. We explored the concept of Packet Switching, where data that is sent through a network is broken up into what are known as Packets, and these Packets get sent through the networks and servers from one person's computer to another. Alice explained that the Internet was the Infastructure and the World Wide Web (WWW) were the servers.",
+  "related_work": "Tuesday was an exploration of the internet and how it came about to be. The first instruction was to \"Break Microsoft\" by creating an art piece that couldn't be made in Microsoft Word. A partner was then instructed to try and recreate this image using Microsoft Word.\n\nI found out that there were 3 desires of the web, networking tech for the military, unifying computers into a single system and uniting all of the worlds knowledge, the first ever computer connection was made in 1969 and was the world LO.\n\nWe explored in a bit of detail the idea of a Creative Technologist as an Enlightenment Scholar, whose work intersects with science, art and technology. There was a discussion of the Memex, a hypothetical device which acted as memory, an index, which stored books, records and communication, and was an \"enhanced supplement to memory.\" We were explained that, before the web and the internet, the only people who could peruse the world of a scholar would have already been invested in philosophy and science. \n\nWe then explored the Information Processing Techniques Office (IPTO), which was based on the \"Man-Computer Symbiosis\" from 1960. It was started in October 1962 and was initiated by several Computer Science departments at universities, it was used for time sharing and networking and it inspired a primitive version of the Internet called ARPANET.\n\n",
   "references": "",
   "conclusion_future_work": "",
-  "date": "",
-  "results_discussion": "[Add homework work here]",
+  "date": "2026-10-20T10:59:00.000+01:00",
+  "results_discussion": "I decided to practice HTML by making my own personal project website. Following the MDN guide to my first website (https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website), I planned out my webpage, I created a basic page using the HTML and then I added a CSS file to modify the look of the page. ",
   "week": 2,
   "title": "HTML and CSS (and JavaScript eventually)",
-  "images": [],
+  "images": [
+    "assets/images/image_20260930144240_31_1.png",
+    "assets/images/image_20261003153151_53_1.png",
+    "assets/images/image_20261003213855_56_1.png",
+    "assets/images/image_20261003220807_64_1.png"
+  ],
   "introduction": "Following on from last weeks introduction to GitHub and the personal blog hosted on a web server, this week was focused on working with HTML and CSS, introduced by Alice and Boyd also introduced the class to the type of research methods and academic paper structures that I will eventually be using for academic articles.",
   "video": ""
 }

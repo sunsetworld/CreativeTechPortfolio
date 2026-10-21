@@ -1,13 +1,20 @@
 {
-  "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-10-21T21:51:00.000+01:00",
+  "results_discussion": "",
+  "week": 3,
+  "title": "London Field Trip, Planning Out, Console Design and Layers, Research",
+  "images": [
+    "assets/images/coding_4.png",
+    "assets/images/coding_5.png",
+    "assets/images/coding_6.png",
+    "assets/images/coding_7.png",
+    "assets/images/coding_8.png",
+    "assets/images/spritesheet.png"
+  ],
+  "introduction": "For this week, there was a bit of focus on the London field trip we would be going on, but the main thing for me was planning out the console that I would 'dissect', putting that into layers and doing research.",
+  "video": ""
 }

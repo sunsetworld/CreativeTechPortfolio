@@ -1,13 +1,15 @@
 {
-  "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-10-21T19:43:00.000+01:00",
+  "results_discussion": "",
+  "week": 3,
+  "title": "Moving Birds",
+  "images": [
+    "assets/images/marey1.webp"
+  ],
+  "introduction": "This is an image of a flying pelican, captured in 1882 by Étienne-Jules Marey. It’s a remarkable demonstration of the range of motion that a bird produces while it is flying. Although most images of flying birds today would seem trivial, the methods that Marey used to capture subjects in motion would go onto inspire today’s motion capture techniques. Marey was a pioneer in the use of Chronophotography, the use of multiple pictures that are combined together, which creates a sense of movement. Marey did this using his photographic gun, which recorded multiple exposures onto a single disc. The pelicans and other birds Marey captured are examples of birds in motion, being captured and recorded. ",
+  "video": ""
 }

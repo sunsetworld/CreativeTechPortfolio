@@ -1,13 +1,13 @@
 {
-  "week": 4,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "",
+  "references": "",
   "conclusion_future_work": "",
+  "date": "",
+  "results_discussion": "",
+  "week": 4,
+  "title": "Bristol Trip, Crit Process, Blender Animation, LLMs, Local Models, Claude and ChatGPT",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "",
+  "video": ""
 }

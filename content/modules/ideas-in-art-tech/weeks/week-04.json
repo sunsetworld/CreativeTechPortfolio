@@ -1,13 +1,15 @@
 {
-  "week": 4,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-10-21T19:11:00.000+01:00",
+  "results_discussion": "",
+  "week": 4,
+  "title": "The Digital Toy: PlayDog",
+  "images": [
+    "assets/images/playdog.png"
+  ],
+  "introduction": "How should a toy in the 21st century function? Should it try to mimic the adult world with its increasing reliance on technology? Should it try to prepare children for when they grow up?\nI’ve designed the PlayDog as a reinvention of the classic robot dog, from those found in fiction like K9 to attempts by toy companies to produce a commercially viable toy robot. Models such as the iDog lasted only a couple of years at most, while Sony’s Aibo continue to be manufactured at a cost that is out of reach for most people. \nThe PlayDog is an attempt to capture the essence of a theoretical 21st century robot dog. Here are the PlayDog’s most noteworthy features:\nSensors: The PlayDog has many ways of sensing the users input and the input around them. LiDAR sensors on the front of the dog detect it’s proximity to objects and people around it. The touch sensor underneath the faux fur structure provides another layer of interaction between you and PlayDog. \nInnovative Choices: A USB-C port is a modern innovation that allows customers to easily charge their PlayDogs without needing to use a proprietary character. When the time comes to replace PlayDog’s rechargeable battery, the process is quick and easy.\nMotors: The motors in PlayDog allow for easy manuverability, allowing the PlayDog to move and follow the user, just like a real life dog. \n",
+  "video": ""
 }
