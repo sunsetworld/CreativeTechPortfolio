@@ -1,13 +1,15 @@
 {
-  "week": 5,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "We were introduced to the framework that we would use to create this project, P5.js. Ross taught it to the rest of the class; I missed those lessons so I had to learn it independently, so I followed the Getting Started tutorial on the website and I became confident in creating shapes on the screen with P5.js. ",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-11-08T20:15:00.000+00:00",
+  "results_discussion": "",
+  "week": 5,
+  "title": "Beginning of Project 1",
+  "images": [
+    "assets/images/026733bf0e1f03f02a222cdbe9d4724a.png"
+  ],
+  "introduction": "This week was the start of Project 1, my first team project. We had a discussion with Boyd about the Bristol trip, and when we got stuck in with the details of Project 1. \n\nBoyd talked about communication technologies, the \"data of the web\" and the web as connection, then he talked about the web stack, CSS, HTML and Javascript, being the style, structure and behaviour of a website respectively. Boyd talked about data in general, that being \"what can be computed, any material a machine can read.\"\n\nBoyd talked about data in the form of senses, and said it was an \"encoded form of the senses\", whereas humans sense, then interpret, then decide based on the latter 2, computers recieve, then decode, and then act on what its been given and decoded. The material in this sense, is numbers, because every character is a number, reflected in terms of encoding. Boyd then talked about the different file types and what they do in comparison to each other, for example, plain text vs package, rasters vs vectors, mp3s and oggs, as they both work in different ways, for example, mp3 is lossy vs oggs which are lossless. ",
+  "video": ""
 }
