@@ -1,13 +1,17 @@
 {
-  "week": 7,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
+  "method": "In terms of learning new stuff today, Ross held a session on the programming language Python. I will admit that I'm not new to Python, I've learned some of the basics before and so I mostly got through the material he provided to us quickly, but it was interesting to rediscover Python. The other piece of software we learned was a 3d modelling app called Blender, again, I had previous experience working with Blender and so I got through what he was teaching us very easily.",
+  "related_work": "This was a feedback crit week for me and Jiaming, and we both had to present our project to a live audience. It was a bit nerve racking for me as I had to setup my portion of the project rather quickly but I was able to get it done. When it was time for thoughts and opinions, the project was described as nostalgic but also scary. Boyd mentioned how it made the audience think about how a machine is distorting what they say to another person, which he thought was scary. There was some criticism though on the second part of the game, as it was unclear what the players had to do ",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-11-08T20:50:00.000+00:00",
+  "results_discussion": "",
+  "week": 7,
+  "title": "Project Feedback, Python and Blender",
+  "images": [
+    "assets/images/screenshot-2026-11-05-at-22.36.00.png",
+    "assets/images/screenshot-2026-11-06-at-11.23.52.png",
+    "assets/images/screenshot-2026-11-06-at-12.02.12.png"
+  ],
+  "introduction": "This week has mainly been about gathering feedback for the project I've been doing with Jiaming, but I also learned some new software and a programming language called Python.\n\n",
+  "video": ""
 }

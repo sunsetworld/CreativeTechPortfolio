@@ -1,5 +1,5 @@
 {
-  "method": "",
+  "method": "From there, I followed the step-by-step tutorial to create my object in Blender, and have it export as a webpage with intractable objects.",
   "related_work": "The first thing I did in relation to my project was to create a layer-list, a hierarchy of what parts I want to appear where in my animation. Following this, I created a detailed list of research topics that would be relevant for the manufacturing of electronic devices, such as the one I am focusing on. ",
   "references": "",
   "conclusion_future_work": "",
@@ -13,7 +13,10 @@
     "assets/images/coding_6.png",
     "assets/images/coding_7.png",
     "assets/images/coding_8.png",
-    "assets/images/spritesheet.png"
+    "assets/images/spritesheet.png",
+    "assets/images/screenshot-2026-10-11-at-20.41.28-2-.png",
+    "assets/images/screenshot-2026-10-11-at-21.36.38.png",
+    "assets/images/screenshot-2026-10-11-at-22.41.50.png"
   ],
   "introduction": "For this week, there was a bit of focus on the London field trip we would be going on, but the main thing for me was planning out the console that I would 'dissect', putting that into layers and doing research.",
   "video": ""

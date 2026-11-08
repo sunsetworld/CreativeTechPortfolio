@@ -1,13 +1,16 @@
 {
-  "week": 6,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
+  "method": "Alice's lesson today revolved around ml5.js, a machine learning library that utilizes P5.js. I followed along with her examples on screen as well as following along with the getting started page on the website. It was a bit tricky as there were a few moments where the program would freeze when I expected it to show emojis on the fingers it was tracking, but I was able to get it working and to have it track the points on my hands, and to place things on those hands in the program. ",
+  "related_work": "This week was mainly finishing the example projects and remaking them myself. Through these projects I got a better idea of how networking worked with P5.js, and how to setup a networked project that I could share with my friends and experience together. ",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-11-08T21:02:00.000+00:00",
+  "results_discussion": "",
+  "week": 6,
+  "title": "More P5.js education, ml5.js",
+  "images": [
+    "assets/images/screenshot-2026-10-30-at-14.54.10.png",
+    "assets/images/screenshot-2026-10-30-at-15.25.54.png"
+  ],
+  "introduction": "This week was a bit of a catchup week for me, as I wanted to complete the week 5 project example, recreating that as well as the week 6 one, but I also learned how to use ml5.js. ",
+  "video": ""
 }
